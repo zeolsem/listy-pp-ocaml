@@ -1,0 +1,4 @@
+(executable
+ (public_name lista1)
+ (name main)
+ (libraries lista1))
